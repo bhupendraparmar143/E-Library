@@ -1,0 +1,55 @@
+/* Admin Login Form  start */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.loginForm {
+  width: 500px;
+  margin: 70px auto;
+  background-color: rgb(204 206 211);
+  padding: 30px;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.text-color {
+  color: #8615d2;
+}
+
+/* Admin Login Form end */
+
+.col-md-2 {
+  width: 20%;
+}
+
+/* DashBord home */
+.bg-00A9FF {
+  padding: 10px;
+  background-color: aliceblue;
+}
+
+.adminNavWidth {
+  width: 4% !important;
+  height: 100vh;
+  background: #f8f9fa; /* Light Grayish Blue */
+  color: #495057;
+}
+
+.fullWidthAdminDashbord {
+  height: 100vh;
+  background: linear-gradient(135deg, #f5f6fa, #7f8fa6);
+  color: #2d3436;
+}
+.fullWidthAdminDashbord div h3{
+  padding: 10px  0  0 15px;
+}
+.row >  {
+  padding: 0 !important;
+}
+.widthAnimation{
+  padding-left: 0 !important;
+  /* transition: linear 0.5s; */
+  transition: all 1s;
+  overflow: hidden;
+}

@@ -1,0 +1,27 @@
+.animation-bottom{
+    position: relative;
+    animation-name: heading;
+    animation-duration: 2s;
+  }
+  @keyframes heading {
+    0%{bottom: -100px;}
+    100% {bottom: 0;}
+  }
+  .animation-left{
+  position: relative;
+  animation-name: animation-left;
+  animation-duration: 1.5s;
+  }
+  @keyframes animation-left {
+    0% {left: -100px;}
+    100%{left: 0px;}
+  
+  }
+  .enimation-right{
+    position: relative;
+    animation: enimation-right 2s;
+  }
+  @keyframes enimation-right {
+    0%{right: -500px;}
+    100%{right: 0px;}
+  }

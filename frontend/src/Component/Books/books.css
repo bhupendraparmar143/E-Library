@@ -1,0 +1,50 @@
+.modal-body {
+    overflow: hidden;
+}
+
+/* Book_Detail_Page   START*/
+.detailed_page_bg {
+    align-items: center;
+    padding: 50px;
+    background: linear-gradient(to top left, #ccccff 0%, #ffffff 100%);
+}
+
+.detailed_Book-image {
+    width: 60%;
+    height: 400px;
+}
+
+.detailed_page_content {
+    color: brown;
+    font-size: 25px;
+}
+
+/* books_Related_Author Start */
+.books_Related_Author_Card {
+    width: 18rem !important;
+    height: 100px;
+}
+
+.books_Related_Author_Name {
+    text-align: center;
+    background: linear-gradient(to top left, #ccccff 0%, #ffccff 100%);
+    padding: 10px 0;
+}
+
+.books_Related_Author_Name_hr {
+    width: 30px;
+    height: 2px;
+    background-color: aquamarine;
+
+}
+
+/* books_Related_Category Page start */
+.books_Related_Category_page_bg {
+    /* background: linear-gradient(to top left, #ccccff 0%, #ffffcc 100%); */
+}
+
+.books_Related_Category_Name {
+    text-align: center;
+    /* background: linear-gradient(to top left, #ccccff 0%, #ffccff 100%); */
+    padding: 10px 0;
+}

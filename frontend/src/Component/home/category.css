@@ -1,0 +1,27 @@
+.category-header{
+    text-align: center;
+}
+.category-header hr{
+    position: relative;
+    left: 45%;
+    bottom: 5px;
+    width: 108px;
+    height: 4px;
+    background-color: #FF7A20;
+}
+.category-blog{
+    background-color: #F8EFFF;
+    padding: 50px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.category-desine{
+    background-color: #a7e3e9;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 0;
+}
+.inner-category{
+    padding: 10px 0;
+
+}

@@ -1,0 +1,38 @@
+.main-author {
+    background-color: #F0F9FF;
+    border-radius: 50px 50px 0 0;
+}
+
+.inner-img {
+    text-align: center;
+}
+
+.inner-img img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.authorHeader {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.authorHeader hr {
+    position: relative;
+    left: 45%;
+    bottom: 13px;
+    width: 108px;
+    height: 4px;
+    background-color: #FF7A20;
+}
+
+.inner-content {
+    padding-top: 10px;
+    text-align: center;
+    color: #FF7A20;
+}
+
+.author_slider {
+    display: flex;
+}

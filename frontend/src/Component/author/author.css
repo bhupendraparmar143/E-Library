@@ -1,0 +1,30 @@
+.bg-000A9FF{
+    background-color: aliceblue;
+
+}
+
+/* AUTHOR SLIDE BAR  START */
+.authorNavWidth {
+  width: 4% !important;
+  height: 100vh;
+  background: #f8f9fa; /* Light Grayish Blue */
+  color: #495057;
+}
+
+.fullWidthAuthorDashbord {
+  height: 100vh;
+  background: linear-gradient(135deg, #f5f6fa, #7f8fa6);
+  color: #2d3436;
+}
+.fullWidthAuthorDashbord div h3{
+  padding: 10px  0  0 15px;
+}
+.row >  {
+  padding: 0 !important;
+}
+.widthAnimation{
+  padding-left: 0 !important;
+  /* transition: linear 0.5s; */
+  transition: all 1s;
+  overflow: hidden;
+}
